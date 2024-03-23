@@ -1,5 +1,8 @@
 # Titok-web-crawler-of-Qsearch-interview
 
+[![hackmd-github-sync-badge](https://hackmd.io/amVv-prjSams7Wq-q2yEiQ/badge)](https://hackmd.io/amVv-prjSams7Wq-q2yEiQ)
+
+
 ## Abstract
 本專案為，Qsearch 公司，實習爬蟲工程師職缺，第二階段測驗的實作題目。
 
