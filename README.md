@@ -30,8 +30,7 @@ ID = 7346427229154413825  https://www.tiktok.com/@geevideo/video/734642722915441
 
 **Step 1-2** : 由於本專案的開發時程較趕，故採用 Selenium 進行開發。操作 Webdriver 模擬使用者行為，並利用 OpenCV 破解滑動驗證碼，最後提取貼文 ID。如下，
 
-{%youtube hu9KAS6SQEY %}
-
+https://github.com/Sigolon/Titok-web-crawler-of-Qsearch-interview/assets/120303498/7ee60202-561e-4c22-83f4-c19062931055
 
 **Step 2**
 根據爬取到的 貼文 ID，進一步爬取數據。
@@ -40,7 +39,7 @@ ID = 7346427229154413825  https://www.tiktok.com/@geevideo/video/734642722915441
 **Step 3**
 基於 matplotlib 套件，自動化繪製每筆貼文的四種互動指標折線圖，
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/tXwoGim7n08/0.jpg)](https://www.youtube.com/watch?v=tXwoGim7n08 step3)
+https://github.com/Sigolon/Titok-web-crawler-of-Qsearch-interview/assets/120303498/f04b4840-c274-4ddd-a8a6-a75ee5e22062
 
 ## Package Request
 python 3.11.7
