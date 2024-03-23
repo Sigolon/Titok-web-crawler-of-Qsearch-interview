@@ -41,6 +41,7 @@ ID = 7346427229154413825  https://www.tiktok.com/@geevideo/video/734642722915441
 基於 matplotlib 套件，自動化繪製每筆貼文的四種互動指標折線圖，
 
 {%youtube tXwoGim7n08 %}
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/tXwoGim7n08/0.jpg)](https://www.youtube.com/watch?v=tXwoGim7n08 step3)
 
 ## Package Request
 python 3.11.7
